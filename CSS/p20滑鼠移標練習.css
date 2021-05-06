@@ -1,0 +1,10 @@
+div {
+    width:  40%;
+    height: 200px;
+    background-color: antiquewhite;
+    cursor: url(/image/小微疼.jpg),auto; /* */
+}
+p {
+    height: 30px;
+    font-size: large;
+}

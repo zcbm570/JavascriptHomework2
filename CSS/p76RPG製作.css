@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+canvas {
+    border:  2px solid black;
+    background-image: url(/image/p77背景.gif);
+}
+
+#talkBox{
+    height: 20px;
+    columns: brown;
+    font-size: 26px;
+    font-weight: bold;
+}
